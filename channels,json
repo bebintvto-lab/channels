@@ -7,6 +7,7 @@
         }
     ],
     "items":[
+      
   {
     "id": "IranNationalRevolutionTV@SD",
     "name": "Iran National Revolution TV",
@@ -586,7 +587,7 @@
   {
     "id": "GEMTV@SD",
     "name": "GEM TV",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520TV2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520TV2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemtv1.png",
@@ -595,7 +596,7 @@
   {
     "id": "GEMSeries@SD",
     "name": "GEM Series",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Series%25202%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Series%2525202%252Fplaylist.m3u8",
     "cat": "Movies",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemseries.png",
@@ -604,7 +605,7 @@
   {
     "id": "GEMRubix@SD",
     "name": "GEM Rubix",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Rubix2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Rubix2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemrubix.png",
@@ -613,7 +614,7 @@
   {
     "id": "GEMRiver@SD",
     "name": "GEM River",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520Gem%2520River2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520Gem%252520River2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemriver.png",
@@ -622,7 +623,7 @@
   {
     "id": "GEMDrama@SD",
     "name": "GEM Drama",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Drama2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Drama2%252Fplaylist.m3u8",
     "cat": "Movies",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemdrama.png",
@@ -631,7 +632,7 @@
   {
     "id": "GEMComedy@SD",
     "name": "GEM Comedy",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Comedy2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Comedy2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemcomedy.png",
@@ -640,7 +641,7 @@
   {
     "id": "GEMClassic@SD",
     "name": "GEM Classic",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520CLASSIC2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520CLASSIC2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemclassic.png",
@@ -649,7 +650,7 @@
   {
     "id": "GEMOnyx@SD",
     "name": "GEM Onyx",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520Gem%2520Onyx2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520Gem%252520Onyx2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemonyx.png",
@@ -667,7 +668,7 @@
   {
     "id": "GEMLife@SD",
     "name": "GEM Life",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Life2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Life2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemlife.png",
@@ -676,7 +677,7 @@
   {
     "id": "GEMFilm@SD",
     "name": "GEM Film",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Film2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Film2%252Fplaylist.m3u8",
     "cat": "Movies",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemfilm.png",
@@ -685,7 +686,7 @@
   {
     "id": "GEMBollywood@SD",
     "name": "GEM Bollywood",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Bollywood2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Bollywood2%252Fplaylist.m3u8",
     "cat": "Movies",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gembollywood.png",
@@ -694,7 +695,7 @@
   {
     "id": "GEMEntertainment@SD",
     "name": "GEM Entertainment",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Entertainment_%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Entertainment_%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gementertainment.png",
@@ -703,7 +704,7 @@
   {
     "id": "GEMKids@SD",
     "name": "GEM Kids",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Kids2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Kids2%252Fplaylist.m3u8",
     "cat": "Kids",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemkids.png",
@@ -712,7 +713,7 @@
   {
     "id": "GEMJunior@SD",
     "name": "GEM Junior",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Junior2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Junior2%252Fplaylist.m3u8",
     "cat": "Kids",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemjunior.png",
@@ -721,7 +722,7 @@
   {
     "id": "GEMFit@SD",
     "name": "GEM Fit",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520FIT2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520FIT2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemfit.png",
@@ -730,7 +731,7 @@
   {
     "id": "GEMPixel@SD",
     "name": "GEM Pixel",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Pixel2%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Pixel2%252Fplaylist.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemtv.jpg",
@@ -739,7 +740,7 @@
   {
     "id": "GEMNature@SD",
     "name": "GEM Nature",
-    "link": "https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FGem-Nature%2Fplaylist.m3u8",
+    "link": "http://5.75.207.127:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FGem-Nature%252Fplaylist.m3u8",
     "cat": "Documentary",
     "country": "Iran",
     "pic": "https://www.parsatv.com/index_files/channels/gemnature.png",
