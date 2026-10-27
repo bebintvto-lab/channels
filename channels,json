@@ -7,140 +7,184 @@
         }
     ],
     "items":[
-      
-  {
-    "id": "GEMTV@SD",
-    "name": "GEM TV",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520TV2%252Fplaylist.m3u8",
+   {
+    "id": "PersianaTurkiye@SD",
+    "name": "Persiana Turkiye",
+    "link": "https://turkhls.persiana.live/hls/stream.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMTV.png",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaTurkiye.png",
     "vpn": 0
   },
   {
-    "id": "GEMSeries@SD",
-    "name": "GEM Series",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Series%2525202%252Fplaylist.m3u8",
+    "id": "PersianaMusic@SD",
+    "name": "Persiana Music",
+    "link": "https://musichls.persiana.live/hls/stream.m3u8",
+    "cat": "Music",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaMusic.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaSonnati@SD",
+    "name": "Persiana Sonnati",
+    "link": "https://sonhls.persiana.live/hls/stream.m3u8",
+    "cat": "Entertainment",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaSonnati.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaTV@SD",
+    "name": "Persiana TV",
+    "link": "https://euhls.persiana.live/hls/stream.m3u8",
+    "cat": "Entertainment",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaTV.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaOne@SD",
+    "name": "Persiana One",
+    "link": "https://onehls.persiana.live/hls/stream.m3u8",
+    "cat": "Entertainment",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaOne.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaSeries@SD",
+    "name": "Persiana Series",
+    "link": "https://onehls.persiana.live/hls/stream.m3u8",
     "cat": "Movies",
     "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMSeries.png",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaSeries.png",
     "vpn": 0
   },
   {
-    "id": "GEMRubix@SD",
-    "name": "GEM Rubix",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Rubix2%252Fplaylist.m3u8",
+    "id": "PersianaKorea@SD",
+    "name": "Persiana Korea",
+    "link": "https://korhls.persiana.live/hls/stream.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMRubix.png",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaKorea.png",
     "vpn": 0
   },
   {
-    "id": "GEMRiver@SD",
-    "name": "GEM River",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520Gem%252520River2%252Fplaylist.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMRiver.png",
-    "vpn": 0
-  },
-  {
-    "id": "GEMComedy@SD",
-    "name": "GEM Comedy",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Comedy2%252Fplaylist.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMComedy.png",
-    "vpn": 0
-  },
-  {
-    "id": "GEMClassic@SD",
-    "name": "GEM Classic",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520CLASSIC2%252Fplaylist.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMClassic.png",
-    "vpn": 0
-  },
-  {
-    "id": "GEMOnyx@SD",
-    "name": "GEM Onyx",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520Gem%252520Onyx2%252Fplaylist.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMOnyx.png",
-    "vpn": 0
-  },
-  {
-    "id": "GEMLife@SD",
-    "name": "GEM Life",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Life2%252Fplaylist.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMLife.png",
-    "vpn": 0
-  },
-  {
-    "id": "GEMFilm@SD",
-    "name": "GEM Film",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Film2%252Fplaylist.m3u8",
-    "cat": "Movies",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMFilm.png",
-    "vpn": 0
-  },
-  {
-    "id": "GEMBollywood@SD",
-    "name": "GEM Bollywood",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Bollywood2%252Fplaylist.m3u8",
-    "cat": "Movies",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMBollywood.png",
-    "vpn": 0
-  },
-  {
-    "id": "GEMKids@SD",
-    "name": "GEM Kids",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Kids2%252Fplaylist.m3u8",
+    "id": "PersianaJunior@SD",
+    "name": "Persiana Junior",
+    "link": "https://junhls.persiana.live/hls/stream.m3u8",
     "cat": "Kids",
     "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMKids.png",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaJunior.png",
     "vpn": 0
   },
   {
-    "id": "GEMJunior@SD",
-    "name": "GEM Junior",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Junior2%252Fplaylist.m3u8",
-    "cat": "Kids",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMJunior.png",
-    "vpn": 0
-  },
-  {
-    "id": "GEMFit@SD",
-    "name": "GEM Fit",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520FIT2%252Fplaylist.m3u8",
+    "id": "PersianaFamily@SD",
+    "name": "Persiana Family",
+    "link": "https://familyhls.persiana.live/hls/stream.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMFit.png",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaFamily.png",
     "vpn": 0
   },
   {
-    "id": "GEMPixel@SD",
-    "name": "GEM Pixel",
-    "link": "http://138.199.194.100:8080/p?url=https%3A%2F%2Fpersiran.online%2Fcodes%2Fspf-aparat.php%3Furl%3Dhttps%253A%252F%252Fgg.hls2.xyz%252Flive%252FIR%252520-%252520GEM%252520Pixel2%252Fplaylist.m3u8",
+    "id": "PersianaIranian@SD",
+    "name": "Persiana Iranian",
+    "link": "https://irhls.persiana.live/hls/stream.m3u8",
     "cat": "Entertainment",
     "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/GEMPixel.jpg",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaIranian.png",
     "vpn": 0
   },
   {
-    "id": "IranNationalRevolutionTV@SD",
-    "name": "Iran National Revolution TV",
-    "link": "https://hls.irannrtv.live/hls/stream.m3u8",
+    "id": "PersianaCinema@SD",
+    "name": "Persiana Cinema",
+    "link": "https://cinehls.persiana.live/hls/stream.m3u8",
+    "cat": "Movies",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaCinema.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaDocumentary@SD",
+    "name": "Persiana Documentary",
+    "link": "https://scihls.persiana.live/hls/stream.m3u8",
+    "cat": "Documentary",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaDocumentary.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaScience@SD",
+    "name": "Persiana Science",
+    "link": "https://scihls.persiana.live/hls/stream.m3u8",
+    "cat": "Documentary",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaScience.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaNostalgia@SD",
+    "name": "Persiana Nostalgia",
+    "link": "https://noshls.persiana.live/hls/stream.m3u8",
+    "cat": "Entertainment",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaNostalgia.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaComedy@SD",
+    "name": "Persiana Comedy",
+    "link": "https://comedyhls.persiana.live/hls/stream.m3u8",
+    "cat": "Entertainment",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaComedy.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaSetMix@SD",
+    "name": "Persiana SetMix",
+    "link": "https://setmixhls.persiana.live/hls/stream.m3u8",
+    "cat": "Entertainment",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaSetMix.jpg",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaMedical@SD",
+    "name": "Persiana Medical",
+    "link": "https://phd2hls.persiana.live/hls/stream.m3u8",
+    "cat": "Documentary",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaMedical.png",
+    "vpn": 0
+  },
+  {
+    "id": "PersianaFight@SD",
+    "name": "Persiana Fight",
+    "link": "https://fighthls.persiana.live/hls/stream.m3u8",
+    "cat": "Entertainment",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaFight.png",
+    "vpn": 0
+  },    
+  {
+    "id": "MBCPersia@SD",
+    "name": "MBC Persia",
+    "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+    "cat": "Entertainment",
+    "country": "Iran",
+    "pic": "https://trianglevpn.com/tv/tv-pic/MBCPersia.png",
+    "vpn": 0
+  },
+  {
+    "id": "IranInternational.uk@SD",
+    "name": "Iran International",
+    "link": "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8",
     "cat": "News",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/IranNationalRevolutionTV.jpg",
+    "country": "UK",
+    "pic": "https://trianglevpn.com/tv/tv-pic/IranInternational.png",
     "vpn": 0
   },
   {
@@ -495,12 +539,12 @@
     "vpn": 1
   },
   {
-    "id": "MBCPersia@SD",
-    "name": "MBC Persia",
-    "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
-    "cat": "Entertainment",
+    "id": "IranNationalRevolutionTV@SD",
+    "name": "Iran National Revolution TV",
+    "link": "https://hls.irannrtv.live/hls/stream.m3u8",
+    "cat": "News",
     "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/MBCPersia.png",
+    "pic": "https://trianglevpn.com/tv/tv-pic/IranNationalRevolutionTV.jpg",
     "vpn": 0
   },
   {
@@ -690,168 +734,6 @@
     "cat": "Entertainment",
     "country": "Iran",
     "pic": "https://trianglevpn.com/tv/tv-pic/AraxTV.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaTurkiye@SD",
-    "name": "Persiana Turkiye",
-    "link": "https://turkhls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaTurkiye.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaMusic@SD",
-    "name": "Persiana Music",
-    "link": "https://musichls.persiana.live/hls/stream.m3u8",
-    "cat": "Music",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaMusic.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaSonnati@SD",
-    "name": "Persiana Sonnati",
-    "link": "https://sonhls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaSonnati.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaTV@SD",
-    "name": "Persiana TV",
-    "link": "https://euhls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaTV.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaOne@SD",
-    "name": "Persiana One",
-    "link": "https://onehls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaOne.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaSeries@SD",
-    "name": "Persiana Series",
-    "link": "https://onehls.persiana.live/hls/stream.m3u8",
-    "cat": "Movies",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaSeries.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaKorea@SD",
-    "name": "Persiana Korea",
-    "link": "https://korhls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaKorea.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaJunior@SD",
-    "name": "Persiana Junior",
-    "link": "https://junhls.persiana.live/hls/stream.m3u8",
-    "cat": "Kids",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaJunior.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaFamily@SD",
-    "name": "Persiana Family",
-    "link": "https://familyhls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaFamily.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaIranian@SD",
-    "name": "Persiana Iranian",
-    "link": "https://irhls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaIranian.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaCinema@SD",
-    "name": "Persiana Cinema",
-    "link": "https://cinehls.persiana.live/hls/stream.m3u8",
-    "cat": "Movies",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaCinema.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaDocumentary@SD",
-    "name": "Persiana Documentary",
-    "link": "https://scihls.persiana.live/hls/stream.m3u8",
-    "cat": "Documentary",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaDocumentary.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaScience@SD",
-    "name": "Persiana Science",
-    "link": "https://scihls.persiana.live/hls/stream.m3u8",
-    "cat": "Documentary",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaScience.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaNostalgia@SD",
-    "name": "Persiana Nostalgia",
-    "link": "https://noshls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaNostalgia.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaComedy@SD",
-    "name": "Persiana Comedy",
-    "link": "https://comedyhls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaComedy.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaSetMix@SD",
-    "name": "Persiana SetMix",
-    "link": "https://setmixhls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaSetMix.jpg",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaMedical@SD",
-    "name": "Persiana Medical",
-    "link": "https://phd2hls.persiana.live/hls/stream.m3u8",
-    "cat": "Documentary",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaMedical.png",
-    "vpn": 0
-  },
-  {
-    "id": "PersianaFight@SD",
-    "name": "Persiana Fight",
-    "link": "https://fighthls.persiana.live/hls/stream.m3u8",
-    "cat": "Entertainment",
-    "country": "Iran",
-    "pic": "https://trianglevpn.com/tv/tv-pic/PersianaFight.png",
     "vpn": 0
   },
   {
@@ -31272,15 +31154,6 @@
     "cat": "General",
     "country": "Greece",
     "pic": "https://trianglevpn.com/tv/tv-pic/IonianTV.png",
-    "vpn": 0
-  },
-  {
-    "id": "IranInternational.uk@SD",
-    "name": "Iran International",
-    "link": "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8",
-    "cat": "News",
-    "country": "UK",
-    "pic": "https://trianglevpn.com/tv/tv-pic/IranInternational.png",
     "vpn": 0
   },
   {
