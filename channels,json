@@ -13,7 +13,7 @@
       "link": "https://cp12.adabmedia.com/hls/live1/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMSeries.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemSeries.png",
       "vpn": 0
     },
     {
@@ -22,7 +22,7 @@
       "link": "https://cp12.adabmedia.com/hls/live2/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMBollywood.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemBollywood.png",
       "vpn": 0
     },
     {
@@ -49,7 +49,7 @@
       "link": "https://cp12.adabmedia.com/hls/RUB/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMRubix.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/RUBIXTV.png",
       "vpn": 0
     },
     {
@@ -58,7 +58,7 @@
       "link": "https://cp12.adabmedia.com/hls/live4/stream.m3u8",
       "cat": "Entertainment",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMTV.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemTV.png",
       "vpn": 0
     },
     {
@@ -67,7 +67,7 @@
       "link": "https://cp12.adabmedia.com/hls/RIV/stream.m3u8",
       "cat": "Entertainment",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMRiver.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/River.png",
       "vpn": 0
     },
     {
@@ -94,7 +94,7 @@
       "link": "https://gemextra.tamashaland.com/live/xLKj1oNqBW3qM3Z5ETtb_g__/master.m3u8",
       "cat": "Kids",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMKids.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemKids.png",
       "vpn": 0
     },
     {
@@ -103,7 +103,7 @@
       "link": "https://cp12.adabmedia.com/hls/gmkid/stream.m3u8",
       "cat": "Kids",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMKids.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemKids.png",
       "vpn": 0
     },
     {
@@ -112,7 +112,7 @@
       "link": "https://gemextra.tamashaland.com/live/m0zrHr0_MiJKKLVUs0u7lQ__/master.m3u8",
       "cat": "Kids",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMJunior.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemJunior.png",
       "vpn": 0
     },
     {
@@ -121,7 +121,7 @@
       "link": "https://cp12.adabmedia.com/hls/gmjun/stream.m3u8",
       "cat": "Kids",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMJunior.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemJunior.png",
       "vpn": 0
     },
     {
@@ -130,7 +130,7 @@
       "link": "https://cp12.adabmedia.com/hls/gmcm/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMComedy.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemComedy.png",
       "vpn": 0
     },
     {
@@ -139,7 +139,7 @@
       "link": "https://cp12.adabmedia.com/hls/gmfit/stream.m3u8",
       "cat": "Entertainment",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMFit.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemFit.png",
       "vpn": 0
     },
     {
@@ -364,7 +364,7 @@
       "link": "https://icnet1hls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/ICnet1.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/icnet1.jpg",
       "vpn": 0
     },
     {
@@ -373,7 +373,7 @@
       "link": "https://icnet2hls.wns.live/hls/stream.m3u8",
       "cat": "Religious",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/ICnet2.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/icnet2.jpg",
       "vpn": 0
     },
     {
@@ -382,7 +382,7 @@
       "link": "https://ic3hls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/ICnet3.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/icnet3.jpg",
       "vpn": 0
     },
     {
@@ -445,7 +445,7 @@
       "link": "https://pmchls.wns.live/hls/stream.m3u8",
       "cat": "Music",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/PMC.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/PMC.jpg",
       "vpn": 0
     },
     {
@@ -454,7 +454,7 @@
       "link": "https://cp12.adabmedia.com/hls/smusic/stream.m3u8",
       "cat": "Music",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/SunMusic.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/SunMusic.jpg",
       "vpn": 0
     },
     {
@@ -463,7 +463,7 @@
       "link": "https://hls.sunmusic.live/hls/stream.m3u8",
       "cat": "Music",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/SunMusic.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/SunMusic.jpg",
       "vpn": 1
     },
     {
@@ -490,7 +490,7 @@
       "link": "https://avaserieshls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/AvaSeries.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/AVASeries.png",
       "vpn": 0
     },
     {
@@ -517,7 +517,7 @@
       "link": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3",
       "cat": "Entertainment",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/StarTV.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/StarTv.png",
       "vpn": 0
     },
     {
@@ -526,7 +526,7 @@
       "link": "https://metafilmhls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/MetaFilm.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/MetaFilm.png",
       "vpn": 0
     },
     {
@@ -535,7 +535,7 @@
       "link": "https://piraxy.tamashaland.com/cors?url=https://metafilmhls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/MetaFilm.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/MetaFilm.png",
       "vpn": 0
     },
     {
@@ -544,7 +544,7 @@
       "link": "https://t2hls.wns.live/hls/stream.m3u8",
       "cat": "Music",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/T2TV.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/T2tv.png",
       "vpn": 0
     },
     {
@@ -616,7 +616,7 @@
       "link": "https://gcinemahls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/Cinex.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/Cinex.jpg",
       "vpn": 0
     },
     {
@@ -625,7 +625,7 @@
       "link": "https://cp12.adabmedia.com/hls/gnc/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/Cinex.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/Cinex.jpg",
       "vpn": 0
     },
     {
@@ -661,7 +661,7 @@
       "link": "https://pmcrohls.wns.live/hls/stream.m3u8",
       "cat": "Music",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/PMCRoyale.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/PMCRoyale.jpg",
       "vpn": 0
     },
     {
@@ -670,7 +670,7 @@
       "link": "https://piraxy.tamashaland.com/cors?url=https://pmcrohls.wns.live/hls/stream.m3u8",
       "cat": "Music",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/PMCRoyale.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/PMCRoyale.jpg",
       "vpn": 0
     },
     {
@@ -679,7 +679,7 @@
       "link": "https://cp12.adabmedia.com/hls/gmkid/stream.m3u8",
       "cat": "Kids",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GEMKids.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GemKids.png",
       "vpn": 0
     },
     {
@@ -715,7 +715,7 @@
       "link": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
       "cat": "Entertainment",
       "country": "Arabic",
-      "pic": "https://trianglevpn.com/tv/tv-pic/AlJazeera.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/Aljazeera.png",
       "vpn": 0
     },
     {
@@ -724,7 +724,7 @@
       "link": "https://setmixhls.persiana.live/hls/stream.m3u8",
       "cat": "Entertainment",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/PersianaSetMix.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/PersianaSetmix.png",
       "vpn": 0
     },
     {
@@ -733,7 +733,7 @@
       "link": "https://fighthls.persiana.live/hls/stream.m3u8",
       "cat": "Entertainment",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/PersianaFight.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/PersianaFight.jpg",
       "vpn": 0
     },
     {
@@ -967,7 +967,7 @@
       "link": "https://eslahtvhls.wns.live/hls/stream.m3u8",
       "cat": "Entertainment",
       "country": "Afghanistan",
-      "pic": "https://trianglevpn.com/tv/tv-pic/EslahTV.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/EslahTV.png",
       "vpn": 0
     },
     {
@@ -1012,7 +1012,7 @@
       "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
       "cat": "Entertainment",
       "country": "Arabic",
-      "pic": "https://trianglevpn.com/tv/tv-pic/MBCMood.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/MBCMood.png",
       "vpn": 0
     },
     {
@@ -1075,7 +1075,7 @@
       "link": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
       "cat": "Entertainment",
       "country": "Arabic",
-      "pic": "https://trianglevpn.com/tv/tv-pic/MBCMasr.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/MBCMasr.jpg",
       "vpn": 0
     },
     {
@@ -1084,7 +1084,7 @@
       "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
       "cat": "Entertainment",
       "country": "Arabic",
-      "pic": "https://trianglevpn.com/tv/tv-pic/MBCMasr2.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/MBCMasr2.jpg",
       "vpn": 0
     },
     {
@@ -1129,7 +1129,7 @@
       "link": "https://setarehhls.wns.live/hls/stream.m3u8",
       "cat": "Entertainment",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/SetarehTV.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/SetarehTV.jpg",
       "vpn": 0
     },
     {
@@ -1138,7 +1138,7 @@
       "link": "https://kjhls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/KanalJadid.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/KanalJadid.jpg",
       "vpn": 0
     },
     {
@@ -1174,7 +1174,7 @@
       "link": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
       "cat": "Kids",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/GulliGirl.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/GulliGirl.jpg",
       "vpn": 0
     },
     {
@@ -1210,7 +1210,7 @@
       "link": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "cat": "Documentary",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/Travelxp.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TravelXP.png",
       "vpn": 0
     },
     {
@@ -1255,7 +1255,7 @@
       "link": "https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8",
       "cat": "News",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/RadioFarda.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/RadioFarda_2.jpg",
       "vpn": 0
     },
     {
@@ -1417,7 +1417,7 @@
       "link": "https://dathls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/DatisTV.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/DatisTV.jpg",
       "vpn": 0
     },
     {
@@ -1444,7 +1444,7 @@
       "link": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
       "cat": "Religious",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/MakkahTV.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/MakkahTV.gif",
       "vpn": 0
     },
     {
@@ -1480,7 +1480,7 @@
       "link": "https://afrafhls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/AfraFilm.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/AfraFilm.png",
       "vpn": 0
     },
     {
@@ -1489,7 +1489,7 @@
       "link": "https://piraxy.tamashaland.com/cors?url=https://afrafhls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/AfraFilm.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/AfraFilm.png",
       "vpn": 0
     },
     {
@@ -1498,7 +1498,7 @@
       "link": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
       "cat": "Entertainment",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TRTTurk.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TRTTURK.jpg",
       "vpn": 0
     },
     {
@@ -1525,7 +1525,7 @@
       "link": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
       "cat": "News",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/ABCNews.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/ABCNews.jpg",
       "vpn": 0
     },
     {
@@ -1561,7 +1561,7 @@
       "link": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
       "cat": "Entertainment",
       "country": "Kurdistan",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TRTKurdi.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TRTKURDI.png",
       "vpn": 0
     },
     {
@@ -1570,7 +1570,7 @@
       "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
       "cat": "News",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TRTWorld.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TRTWorld.png",
       "vpn": 0
     },
     {
@@ -1579,7 +1579,7 @@
       "link": "http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/chunklist.m3u8",
       "cat": "Kids",
       "country": "Kurdistan",
-      "pic": "https://trianglevpn.com/tv/tv-pic/AfarinKids.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/AfarinKids.png",
       "vpn": 0
     },
     {
@@ -1606,7 +1606,7 @@
       "link": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
       "cat": "News",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TRTHaber.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TRTHaber.png",
       "vpn": 0
     },
     {
@@ -1615,7 +1615,7 @@
       "link": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
       "cat": "Music",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TRTAvaz.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TRTAVAZ.png",
       "vpn": 0
     },
     {
@@ -1660,7 +1660,7 @@
       "link": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
       "cat": "Music",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TRTMuzik.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TRTMUZIK.png",
       "vpn": 0
     },
     {
@@ -1687,7 +1687,7 @@
       "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8",
       "cat": "Entertainment",
       "country": "Afghanistan",
-      "pic": "https://trianglevpn.com/tv/tv-pic/ToloTV.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/ToloTV.png",
       "vpn": 0
     },
     {
@@ -1705,7 +1705,7 @@
       "link": "https://kurdchhls.wns.live/hls/stream.m3u8",
       "cat": "Entertainment",
       "country": "Kurdistan",
-      "pic": "https://trianglevpn.com/tv/tv-pic/KurdChannel.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/KurdChannel.png",
       "vpn": 0
     },
     {
@@ -1723,7 +1723,7 @@
       "link": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
       "cat": "Entertainment",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TonTV.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TonTv.png",
       "vpn": 0
     },
     {
@@ -1732,7 +1732,7 @@
       "link": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
       "cat": "Entertainment",
       "country": "Arabic",
-      "pic": "https://trianglevpn.com/tv/tv-pic/ZagrosTV.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/ZagrosTv.png",
       "vpn": 0
     },
     {
@@ -1759,7 +1759,7 @@
       "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8",
       "cat": "Music",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/Number1Turk.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/NUMBER1TURK.png",
       "vpn": 0
     },
     {
@@ -1777,7 +1777,7 @@
       "link": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
       "cat": "Entertainment",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TRTKurdi.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TRTKURDI.png",
       "vpn": 0
     },
     {
@@ -1804,7 +1804,7 @@
       "link": "http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8",
       "cat": "Music",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/PowerTV.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/PowerTV.png",
       "vpn": 0
     },
     {
@@ -1813,7 +1813,7 @@
       "link": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
       "cat": "News",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/HalkTV.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/HalkTv.png",
       "vpn": 0
     },
     {
@@ -1885,7 +1885,7 @@
       "link": "http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694",
       "cat": "News",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/ntv.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/NTV.png",
       "vpn": 0
     },
     {
@@ -1930,7 +1930,7 @@
       "link": "https://arkhls.wns.live/hls/stream.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/ArkoTV.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/ArkoTV.png",
       "vpn": 0
     },
     {
@@ -1984,7 +1984,7 @@
       "link": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
       "cat": "Entertainment",
       "country": "Turkey",
-      "pic": "https://trianglevpn.com/tv/tv-pic/Kanal7.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/Kanal7.jpg",
       "vpn": 0
     },
     {
@@ -1993,7 +1993,7 @@
       "link": "https://live.ontodaytv.com/hls/ontoday.m3u8",
       "cat": "Movies",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/TodayTV.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/TodayTV.png",
       "vpn": 1
     },
     {
@@ -2011,7 +2011,7 @@
       "link": "https://hls.4utv.live/hls/stream.m3u8",
       "cat": "Entertainment",
       "country": "Iran",
-      "pic": "https://trianglevpn.com/tv/tv-pic/4UTV.png",
+      "pic": "https://trianglevpn.com/tv/tv-pic/4UTV.jpg",
       "vpn": 1
     },
     {
@@ -2101,7 +2101,7 @@
       "link": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "cat": "News",
       "country": "Arabic",
-      "pic": "https://trianglevpn.com/tv/tv-pic/AlArabiya.jpg",
+      "pic": "https://trianglevpn.com/tv/tv-pic/AlArabiya.png",
       "vpn": 1
     },
     {
